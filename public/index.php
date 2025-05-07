@@ -6,3 +6,4 @@ $x -= 3;
 $x += 7;  // Nuova operazione
 echo "Valore finale: $x";
 ?>
+$x *= 2; // Nuova operazione di moltiplicazione
