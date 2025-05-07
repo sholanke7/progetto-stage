@@ -2,4 +2,5 @@
 $x = 10;
 $x++;
 $x *= 5;
-echo $x;
+$x -= 3;
+echo "Valore finale: $x";
